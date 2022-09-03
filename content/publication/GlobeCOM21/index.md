@@ -1,26 +1,26 @@
 ---
-title: 'Multi-level Contrast Network for Wearables-based Joint Activity Segmentation and Recognition'
+title: 'Open Set Mixed-Reality Human Activity Recognition'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
+  - Zixuan Zhang 
   - Lei Chu
+  - admin
   - Ling Pei
-  - Wenxian Yu
-  - Robert Qiu
+
 
 # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2022-08-20'
-# doi: ''
+date: '2021-12-06'
+doi: '10.1109/GLOBECOM46510.2021.9685735'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-8-20'
+publishDate: '2022-02-02'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
